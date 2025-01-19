@@ -1,0 +1,9 @@
+.btn {
+    width: 80%;
+    background-color: white;
+}
+
+.btn:hover {
+    background-color: hsl(200, 100%, 50%);
+    cursor: pointer;
+}
