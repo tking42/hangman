@@ -37,7 +37,7 @@ function App() {
       <div style={{ fontSize: "1.5rem", textAlign: "center" }}>
         {isWinner && (
             <div style={{display: "flex", flexDirection: "column", alignItems: "center"}}>
-              <p>Well done! You won.'.</p>
+              <p>Well done! You won.</p>
               <button onClick={() => window.location.reload()} className={styling.btn}>Play Again</button>
             </div>
         )}
