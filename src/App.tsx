@@ -25,7 +25,7 @@ function App() {
 
     return (
     <div style={{
-      maxWidth: "800px",
+      maxWidth: "600px",
       maxHeight: "90vh",
       display: "flex",
       flexDirection: "column",
